@@ -4,7 +4,8 @@
   "description": "Simple code to beo be used in Functionite webinar",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/webpack/bin/webpack.js --watch --config ./webpack.config.js"
   },
   "keywords": [
     "oop",
