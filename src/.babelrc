@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "es2015",
+    "stage-2",
+    "@ava/stage-4",
+    "@ava/transform-test-files"
+  ]
+}
